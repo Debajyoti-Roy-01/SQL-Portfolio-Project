@@ -1,0 +1,4 @@
+ in this project i have analysis on indian census data for 2011 . I have gathered data from the websites mentioned below
+ 1.https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqazVTM254LTB5bWNKVU9mVzhVbzJFb0ZkSHVxZ3xBQ3Jtc0tsUFZVbUV2M1BOT2FfNDk3RDhzX3UwZ2M3a1h2ajNqWXRSeG9Ec0FkLTNFZi1PRThmVUJGSC1yWW1NNi14NkEtemJrODgwVVJ0Ykl1R3lvamQ0UlFEZUFjdU9acG9FZ3FlQ2JIRklfSVNqYXFXenUwaw&q=https%3A%2F%2Fwww.census2011.co.in%2Fdistrict.php&v=RY4npAVNSfc
+ 2.https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbHN4V211Unk2LWROaEFJcDZPanV6dEMwN1JUUXxBQ3Jtc0tudHM1d1RXdXdUVHJicS1wVl9xemdtZkNYQzc4bXA1c0EwYXBSRTl5bG01ekJwTm55YnhreHhwMmpONVR3blRXbU9mclFKMFhodDFFNVVmdUpVaHR0Rm9acVhKT3REUGZHeEtRRmNmVmVxYlhQVThoUQ&q=https%3A%2F%2Fwww.census2011.co.in%2Fliteracy.php&v=RY4npAVNSfc
+ 
